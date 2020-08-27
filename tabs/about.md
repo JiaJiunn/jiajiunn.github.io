@@ -14,9 +14,9 @@ title: About
 
 My name is Jiunn, and I am a junior at Cornell University studying Statistics and Computer Science. I'm excited abouts all things robotics and software engineering -- which is what this blog is primarily about!
 
-In the past, I have interned at <a href="https://www.argo.ai">Argo AI</a>, where I worked on object detection systems for autonomous cars. I have also previously interned at <a href="https://garuda.io">Garuda Robotics</a>, where I developed the perception system for UAVs as a software engineering intern.
+In the past, I have interned at <a href="https://www.argo.ai">Argo AI</a>, where I worked on object detection systems for autonomous cars. I also previously interned at <a href="https://garuda.io">Garuda Robotics</a>, where I developed the perception system for UAVs as a software engineering intern. On campus, I now work on perception and localization software at <a href="https://resistanceracing.engineering.cornell.edu">Cornell Electric Vehicles</a>, and am also a teaching assistant for the class Introduction to Analysis of Algorithms.
 
-<!-- On campus, I currently work on perception and localization algorithms under <a href="https://resistanceracing.engineering.cornell.edu">Cornell Electric Vehicles</a>, a project team focused on building energy-efficient, autonomous electric vehicles. I also am a teaching assistant for the course <a href="https://www.cs.cornell.edu/courses/cs4820/2020sp/">Introduction to Analysis of Algorithms</a>. -->
+<!-- On campus, I currently work on perception and localization algorithms under c, a project team focused on building energy-efficient, autonomous electric vehicles. I also am a teaching assistant for the course <a href="https://www.cs.cornell.edu/courses/cs4820/2020sp/">Introduction to Analysis of Algorithms</a>. -->
 
 I mainly write about code and research papers, but also school and (sometimes) travelling. Feel free to reach out to me at <a href="mailto:ja497@cornell.edu" starget="_blank">ja497@cornell.edu</a>!
 
