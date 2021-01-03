@@ -1,0 +1,29 @@
+- title: Perception Team Lead, Cornell Electric Vehicles
+  from: Aug 2018
+  to: Present
+  description:  I coordinate a team of five to engineer training, evaluation, and deployment frameworks for computer vision models, 
+                as part of the perception system for CEV's autonomous cars. Previously, I have also led the development of an onboard
+                localization system, which fuses data from a GPS and IMU, and also implemented an RRT*-based path planning algorithm 
+                to navigate obstacle maps in real time. 
+
+- title: Teaching Assistant, Cornell University College of Engineering
+  from: Jan 2019
+  to: Present
+  description:  I was a teaching assistant for computer science classes including Introduction to Analysis of Algorithms (Fall 2020), 
+                Data Structures and Functional Programming (Spring 2020), Discrete Structures (Fall 2019), Introduction to Machine 
+                Learning and Data Science (Spring 2019 - Spring 2020). I led discussion sections, graded student assignments, and 
+                held weekly office hours, for class sizes of around 300-400 students.
+
+- title: Software Engineering Intern, Argo AI
+  from: May 2020
+  to: Aug 2020
+  description:  I primarily worked on developing general obstacle detectors for autonomous cars. I implemented stixel-based computer 
+                vision models from scratch, and integrated them within a distributed training framework for running training and evaluations 
+                on Google Cloud Platform.
+
+- title: Software Engineering Intern, Garuda Robotics
+  from: May 2019
+  to: Aug 2019
+  description:  I developed and trained a MobileNet-based object recognition module via transfer learning, as part of the obstacle 
+                avoidance system for medium-speed delivery UAVs. Additionally, I also built blob detection and optical flow-based 
+                obstacle detection algorithms, and managed to achive an accurate detection range of up to 20m while travelling 5m/s.
