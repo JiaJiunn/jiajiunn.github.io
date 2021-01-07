@@ -72,10 +72,16 @@ Hence, at every ping, the client (player) would update the player's own speed, t
 
 ## Remarks
 
+<br />
 <figure class="video_container" align="center">
   <video controls="true" width="700" allowfullscreen="true">
-    <source src="assets/game_engine/AppDemo.mp4" type="video/mp4">
+    <source src="/assets/game_engine/AppDemo.mp4" type="video/mp4">
   </video>
 </figure>
+(The left and right panes are from the perspectives of two different clients, which can be run from two different computers and such.)
 
+<!-- <p align="center">
+  <img src="/assets/game_engine/AppDemo.gif" alt="animated" />
+</p> -->
+<br />
 Now, we have a really simple 3D game engine to build off of! This game engine is still far from being completed, of course, and there are plenty of optimizations that can be made to the server-client messages as well as the physics engines themselves (collisions between entities are still not implemented for instance). Nevertheless, I had a lot of fun learning and working on this project, and I hope you got something out of this too!
